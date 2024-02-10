@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @jaykumar3254
+- 👀 I’m interested in web development (html,js,css)
+- 🌱 I’m currently learning c++ and python
+- 💞️ I’m looking to collaborate on desiging projects 
+- 📫 How to reach me pardeshijaikumar@gmail.com
+- 😄 Pronouns: jay
+- ⚡ Fun fact: i am Diploma holder 
