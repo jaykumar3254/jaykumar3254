@@ -1,6 +1,3 @@
 - 👋 Hi, I’m @jaykumar3254
 - 📫 How to reach me pardeshijaikumar@gmail.com
 - 😄 Pronouns: jay
-
-Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
