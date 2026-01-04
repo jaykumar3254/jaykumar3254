@@ -3,5 +3,5 @@
 - 😄 Pronouns: jay
 <h2 align="left">🏆 GitHub Trophies</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaykumar3254&show_icons=true" />
 
