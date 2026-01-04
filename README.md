@@ -2,5 +2,5 @@
 - 📫 How to reach me pardeshijaikumar@gmail.com
 - 😄 Pronouns: jay
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Jaykumar Pardeshi)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jaykumar3254)
 
