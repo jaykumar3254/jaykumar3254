@@ -1,6 +1,6 @@
 Hi, I'm Jaykumar Pardeshi 👋
 
-🎓 ** Aspiring Frontend Developer**
+🎓  Aspiring Frontend Developer
 
 ---
 
@@ -21,7 +21,7 @@ building inspiring and attractive interfaceses using latest tech stack for more 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=jaykumar3254&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🏆 GitHub Profile Trophies
 
