@@ -21,23 +21,10 @@ building inspiring and attractive interfaceses using latest tech stack for more 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb\&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
 
 ---
-![Profile views](https://komarev.com/ghpvc/?username=PUSHPAK-JAISWAL&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=jaykumar3254&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🏆 GitHub Profile Trophies
 
 [![trophy](https://github-profile-trophy-tawny.vercel.app/?username=jaylumar3254\&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-**Dark Theme**
-
-![GitHub Contribution Snake dark](./dist/github-contribution-grid-snake-dark.svg)
-
-**Light Theme**
-
-![GitHub Contribution Snake light](./dist/github-contribution-grid-snake.svg)
-
-</details>
-
----
-
-Thanks for stopping by! Let's learn, build, and grow together. 🚀
+Thanks for your Attention and time !
