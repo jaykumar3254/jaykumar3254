@@ -173,7 +173,7 @@ I'm interested in **Java development, backend engineering, full-stack applicatio
 
 - **GitHub:** [@jaykumar3254](https://github.com/jaykumar3254)
 - **Email:** [pareshijaikumar@gmail.com](mailto:pareshijaikumar@gmail.com)
-- **Portfolio / LinkedIn:** Add your direct URLs to these links when ready.
+- **Portfolio / LinkedIn:** [Jaykumar Pardeshi](https://www.linkedin.com/in/jaykumarpardeshi/)
 
 ---
 
