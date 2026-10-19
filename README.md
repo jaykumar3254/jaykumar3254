@@ -96,21 +96,6 @@ Focusing on Java backend concepts, REST APIs, layered architecture, persistence,
 | Security & architecture | Learning Spring Security, JWT, authentication/authorization, layered architecture |
 | Tools & workflow | Git, GitHub, Maven, Postman, GitHub Actions, NPM, Figma, Agile |
 | Mobile | Android development with Java and XML; React Native / Expo project work |
-
-## 📚 Current learning roadmap
-
-```mermaid
-flowchart TD
-    A["Java fundamentals & OOP"] --> B["Collections, DSA & exceptions"]
-    B --> C["HTTP, REST APIs & Spring Boot"]
-    C --> D["JPA / Hibernate + MySQL"]
-    D --> E["Spring Security + JWT"]
-    E --> F["Testing, Docker, CI/CD"]
-    F --> G["System design, performance & observability"]
-```
-
-My focus is to connect theory with implementation: build an API, persist data, secure the workflow, test edge cases, and understand how the pieces fit together.
-
 ## 🏆 Achievements & education
 
 - 🥇 **1st Place** — Department-Level Ideathon
